@@ -1,0 +1,38 @@
+#borderbox{
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(50, 53, 50);
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-top: 20px;
+}
+
+
+h1{
+    color: rgb(88, 35, 75);
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.content{
+    margin-left: 2px;
+    text-align: center;
+    
+}
+.pulsanti,.ugualetasto{
+    background-color:rgb(231, 23, 23);
+    color: #f0f0f0;
+    margin: 4px 2px;
+    height: 40px;
+    width: 46px;
+    font-size: 1.8em;
+    font-weight: bold;
+    
+}
+#op{
+    background-color: rgba(252, 252, 252, 0.719);
+}
+
+
+
